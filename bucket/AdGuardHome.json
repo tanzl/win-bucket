@@ -1,16 +1,16 @@
 {
-    "version": "0.106.1",
+    "version": "0.106.2",
     "description": "Free and open source, powerful network-wide ads & trackers blocking DNS server.",
     "homepage": "https://adguard.com/adguard-home.html",
     "license": "GPL-3.0 License",
     "architecture": {
         "64bit": {
-            "url": "https://download.fastgit.org/AdguardTeam/AdGuardHome/releases/download/v0.106.1/AdGuardHome_windows_amd64.zip",
-            "hash": "2f0089490dba3a03e70cf37b71683e223f58484d9d9af37f06c59a34dc5de26d"
+            "url": "https://download.fastgit.org/AdguardTeam/AdGuardHome/releases/download/v0.106.2/AdGuardHome_windows_amd64.zip",
+            "hash": "1b31d14fa1191b8da2aab923c554713541242e9514fb9a0a876815ef1c21dc3b"
         },
         "32bit": {
-            "url": "https://download.fastgit.org/AdguardTeam/AdGuardHome/releases/download/v0.106.1/AdGuardHome_windows_386.zip",
-            "hash": "19e5deb2b64f13e28017444133890e73c2a968659d94a795e46df6fcc8afc5d2"
+            "url": "https://download.fastgit.org/AdguardTeam/AdGuardHome/releases/download/v0.106.2/AdGuardHome_windows_386.zip",
+            "hash": "0e680f0c4335f815ffa83c5912a8ece13eb876258c2a8ce5fbfd147a832821cc"
         }
     },
     "extract_dir": "AdGuardHome",
