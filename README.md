@@ -42,7 +42,7 @@ iwr -useb get.scoop.sh | iex
 ### 添加软件库
 
 ```powershell
-scoop bucket add win-bucket https://github.com/tanzl/win-bucket
+scoop bucket add win-bucket https://github.com/tanzl/scoop-bucket
 ```
 ### 软件下载
 
