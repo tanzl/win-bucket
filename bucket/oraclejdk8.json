@@ -46,15 +46,15 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "http://download.macromedia.com/pub/coldfusion/java/java8/$version/jdk-$version-windows-x64.exe#/dl.7z"
+                "url": "https://download.macromedia.com/pub/coldfusion/java/java8/$version/jdk/jdk-$version-windows-x64.exe#/dl.7z"
             },
             "32bit": {
-                "url": "http://download.macromedia.com/pub/coldfusion/java/java8/$version/jdk-$version-windows-i586.exe#/dl.7z"
+                "url": "https://download.macromedia.com/pub/coldfusion/java/java8/$version/jdk/jdk-$version-windows-i586.exe#/dl.7z"
             }
         },
         "hash": {
-            "url": "http://download.macromedia.com/pub/coldfusion/java/java8/$version/jdk/jdk$version-checksum.txt",
-            "find": "$basename.*([a-fA-F0-9]{64})"
+            "url": "https://download.macromedia.com/pub/coldfusion/java/java8/$version/jdk/jdk$version-checksum.txt",
+            "regex": "$basename.*([a-fA-F0-9]{64})"
         }
     }
 }
