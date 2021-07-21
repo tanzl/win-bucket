@@ -14,7 +14,7 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 ### 配置自定义安装目录`SCOOP`环境变量
 
-```
+```powershell
 $env:SCOOP='D:\Scoop\Applications'
 [Environment]::SetEnvironmentVariable('SCOOP', $env:SCOOP, 'User')
 # run the installer
