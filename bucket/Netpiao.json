@@ -1,10 +1,10 @@
 {
-    "version": "1.0.0.3076",
+    "version": "1.0.0.3077",
     "description": "心蓝12306订票助手是由心蓝数据(BHData.Com)开发，基于铁路客户服务中心官网(12306.Cn)的一个网上购买火车票实用客户端程序",
     "homepage": "http://www.bhdata.com",
     "license": "Proprietary",
-    "url": "http://down.bhdata.com/soft/NetPiao.1.0.0.3076.zip",
-    "hash": "ac5691afe9ae419a0926ea05532fa99193de96828264614c75db1ff186880a59",
+    "url": "http://down.bhdata.com/soft/NetPiao.1.0.0.3077.zip",
+    "hash": "81584bd055a9bf84097bbd4b769fb15df23d9203168d5139b56afc44123fa51d",
     "bin": "NetPiao.exe",
     "pre_install": [
         "foreach ($name in @('Lines.xml', 'netpiao.xml', 'StationNames.dat', 'Passengers.dat', 'Devices_8916.dat')) {",
