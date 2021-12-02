@@ -4,10 +4,10 @@ daysUntilStale: 180
 daysUntilClose: 90
 # Issues with these labels will never be considered stale
 exemptLabels:
-  - "T: Enhancement"
-  - "S: Confirmed"
+  - pinned
+  - security
 # Label to use when marking an issue as stale
-staleLabel: "S: Stale"
+staleLabel: wontfix
 # Comment to post when marking an issue as stale. Set to `false` to disable
 markComment: >
   This issue has been automatically marked as stale because it has not had
