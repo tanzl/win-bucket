@@ -1,13 +1,13 @@
 {
-    "version": "7.1.2",
+    "version": "7.1.3",
     "description": "NoSQLBooster for MongoDB (formerly MongoBooster) is a shell-centric cross-platform GUI tool for MongoDB v2.6-4.4, which provides comprehensive server monitoring tools, fluent query builder, SQL query, query code, task schedulingserver monitoring tools, ESNext support, and true IntelliSense experience.",
     "homepage": "https://nosqlbooster.com/",
     "license": {
         "identifier": "EULA",
         "url": "https://nosqlbooster.com/eula"
     },
-    "url": "https://s3.mongobooster.com/download/releasesv7/nosqlbooster4mongo-7.1.2.exe#/dl.7z",
-    "hash": "89f4b3b82772876a43ec1ae529d627e053b4e49a88cd944d4616ba6610999b50",
+    "url": "https://s3.mongobooster.com/download/releasesv7/nosqlbooster4mongo-7.1.3.exe#/dl.7z",
+    "hash": "dabe181019d58b9d8c99e25918f057013aa16527c33ab8b35526b6ab50dee736",
     "installer": {
         "script": "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\""
     },
