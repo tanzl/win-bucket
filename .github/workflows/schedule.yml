@@ -1,6 +1,7 @@
 on:
+  workflow_dispatch:
   schedule:
-  - cron: '0 * * * *'
+    - cron: '20 */2 * * *'
 name: Excavator
 jobs:
   excavate:
@@ -9,9 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@main
     - name: Excavate
-      uses: Ash258/Scoop-GithubActions@stable-win
+      uses: ScoopInstaller/GithubActions@main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        SHOVEL: '1'
-        SCOOP_BRANCH: 'NEW'
         SKIP_UPDATED: '1'
