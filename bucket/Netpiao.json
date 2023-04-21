@@ -27,7 +27,7 @@
         "Devices_8916.dat"
     ],
     "checkver": {
-        "url": "http://www.bhdata.com/program.asp?action=view&id=39",
+        "url": "https://www.bhdata.com/soft/73982865.html",
         "regex": "NetPiao.([\\d.]+)?(?:\\.[a-z])"
     },
     "autoupdate": {
