@@ -65,10 +65,8 @@ sudo scoop install win-bucket/<软件名> -g
 
 | 软件                                                         | 简介                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [AdGuardHome](https://adguard.com/adguard-home.html)         | AdGuard Home 是一款全网广告拦截与反跟踪软件                  |
 | [navicat-premium](http://www.navicat.com.cn/products/navicat-premium) | Navicat Premium 是一套数据库开发工具，让你从单一应用程序中同时连接 MySQL、MariaDB、MongoDB、SQL Server、Oracle、PostgreSQL 和 SQLite 数据库 |
 | [Netpiao](http://www.bhdata.com/program.asp?action=view&id=39) | 心蓝12306订票助手是由心蓝数据(BHData.Com)开发，基于铁路客户服务中心官网(12306.Cn)的一个网上购买火车票实用客户端程序 |
 | [NoSQLBooster-for-MongoDB](https://nosqlbooster.com/)        | NoSQLBooster for MongoDB是针对MongoDB v2.6-4.4的跨平台GUI工具 |
-| [dev-sidecar](https://github.com/docmirror/dev-sidecar)      | 开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速 |
 | [oraclejdk8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) | Oracle JDK 8 Java开发工具包                                  |
 
